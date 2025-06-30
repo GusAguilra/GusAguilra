@@ -41,7 +41,7 @@ Specialist in large-scale monitoring (CheckMK), Bash scripting, server hardening
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=flat-square)](mailto:gustavoe.aguilera@hotmail.com)
 
 ---
-
+<!--
 ### 📈 GitHub Activity
 
 <a href="https://github.com/tu-usuario">
@@ -69,3 +69,4 @@ Specialist in large-scale monitoring (CheckMK), Bash scripting, server hardening
 </a>
 
 ---
+-->
