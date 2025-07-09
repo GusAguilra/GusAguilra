@@ -1,16 +1,16 @@
 # 👨‍💻 Gustavo Aguilera
 
-### 🐧 About Me
+###  About Me:
 Linux/Unix SysAdmin focused on system administration, automation, and infrastructure optimization.  
 Specialist in large-scale monitoring (CheckMK), Bash scripting, server hardening, and high availability.
 
-- 🔧 Currently working on Linux/Unix System Administration and Infrastructure Monitoring  
-- 🎯 Preparing for the LPIC-1 certification  
-- 🤝 Looking to collaborate on DevOps, Monitoring, and Server Hardening projects  
-- 🌍 Open to contributing to open-source system tools  
-- 💬 Ask me about Linux, Bash scripting, CheckMK, and performance optimization  
-- 🙋‍♂️ Pronouns: He/Him  
-- ⚡ Fun fact: I enjoy solving critical issues under pressure  
+-  Currently working on Linux/Unix System Administration and Infrastructure Monitoring  
+-  Preparing for the LPIC-1 certification  
+-  Looking to collaborate on DevOps, Monitoring, and Server Hardening projects  
+-  Open to contributing to open-source system tools  
+-  Ask me about Linux, Bash scripting, CheckMK, and performance optimization  
+-  Pronouns: He/Him  
+-  Fun fact: I enjoy solving critical issues under pressure  
 - 📊 [My Notion Portfolio](https://www.notion.so/Gustavo-Aguilera-Linux-Unix-SysAdmin-Portfolio-222c08e7ec6280948458f2e8671cc77a)
 
 ---
