@@ -28,7 +28,7 @@ Specialist in large-scale monitoring (CheckMK), Bash scripting, server hardening
 
 ### 📜 Certifications
 
-- ✅ **LPIC-1: Linux Administrator**  
+- ✅ **LPI: Linux Essentials**  
   Issued by: Linux Professional Institute (LPI)  
   🔗 [Verify Certification](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000568806/vacd8w94bn)
 
