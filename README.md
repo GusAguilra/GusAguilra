@@ -1,82 +1,105 @@
-# 👨‍💻 Gustavo Aguilera
+# 👋 Hola, soy Gus
 
-## About Me
+### Linux Systems Administrator · Infrastructure Operations · OCI Production Support
 
-Linux Systems Administrator and Infrastructure Operations professional with experience in enterprise cloud environments, production support, and large-scale infrastructure monitoring. Currently working at Oracle as an OCI Production Service System Administrator, focused on hardware diagnostics, server recovery, Linux troubleshooting, and operational readiness for cloud infrastructure environments.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Aguilera-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/gustavo-aguilera-l/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:gustavoe.aguilera@hotmail.com)
 
-- Currently working on OCI production infrastructure operations and Linux system administration
-- Experience with hardware diagnostics, TOR connectivity validation, NIC health analysis, and OS-level troubleshooting
-- Skilled in Linux administration (CentOS/Ubuntu), Bash scripting, monitoring automation, and infrastructure optimization
-- Background in enterprise monitoring implementations using CheckMK/Nagios, SNMP, APIs, and server performance analysis
-- Experience in NOC operations, incident response, war rooms, and on-call support
-- Working with tools and platforms such as Jira, Confluence, Git, Ocean, Codex, and ChatGPT-driven automation workflows
-- Preparing for LPIC-1 certification
-- Interested in DevOps, Cloud Infrastructure, SRE, Monitoring, and Automation projects
-- Open to collaborating on Linux, monitoring, and infrastructure-related open-source projects
-- Passionate about solving critical infrastructure issues in fast-paced production environments
+</div>
 
 ---
 
-### 🛠️ Tools & Technologies
+## 🧭 About Me
+
+Soy administrador de sistemas Linux e infraestructura, con experiencia en entornos cloud empresariales, soporte a producción y monitoreo de infraestructura a gran escala. Actualmente trabajo en **Oracle** como **OCI Production Service System Administrator**, enfocado en diagnóstico de hardware, recuperación de servidores, troubleshooting Linux y operational readiness para infraestructura cloud.
+
+- 🔭 Trabajando actualmente en operaciones de infraestructura de producción OCI y administración de sistemas Linux
+- 🖥️ Experiencia en diagnóstico de hardware, validación, análisis y troubleshooting a nivel de OS
+- 🐧 Administración Linux (RHEL/DEB), scripting en Bash, automatización de monitoreo y optimización de infraestructura
+- 📊 Implementación de monitoreo empresarial con CheckMK/Nagios, SNMP, APIs y análisis de performance de servidores
+- 🚨 Experiencia en operaciones NOC, respuesta a incidentes, war rooms y soporte on-call
+- 🧰 Uso de herramientas como Jira, Confluence, Git, Ocean, Codex y flujos de automatización impulsados por IA
+- 📘 Preparándome para la certificación **LPIC-1**
+- ☁️ Interesado en DevOps, Cloud Infrastructure, SRE, Monitoring y proyectos de automatización
+- 🤝 Abierto a colaborar en proyectos open-source de Linux, monitoreo e infraestructura
+- ⚡ Apasionado por resolver problemas críticos de infraestructura en entornos de producción de alta exigencia
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Sistemas Operativos**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white&style=flat-square)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
+
+**Cloud & Infraestructura**
+
+![Oracle OCI](https://img.shields.io/badge/Oracle-OCI-C74634?logo=oracle&logoColor=white&style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-TOR%20%7C%20NICs%20%7C%20Infra-blue?style=flat-square)
+![SSH](https://img.shields.io/badge/SSH-000000?logo=openssh&logoColor=white&style=flat-square)
+
+**Monitoreo & Automatización**
+
+![CheckMK](https://img.shields.io/badge/CheckMK-Monitoring-1DAA6B?style=flat-square)
+![SNMP](https://img.shields.io/badge/SNMP-Network%20Monitoring-2C5CBD?style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-Bash%20%7C%20AI%20Workflows-orange?style=flat-square)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-AI%20Automation-74aa9c?logo=openai&logoColor=white&style=flat-square)
+
+**Colaboración**
+
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=flat-square)
-![CheckMK](https://img.shields.io/badge/CheckMK-Monitoring-green?style=flat-square)
-![SNMP](https://img.shields.io/badge/SNMP-Network%20Monitoring-blue?style=flat-square)
-![SSH](https://img.shields.io/badge/SSH-000000?logo=openssh&logoColor=white&style=flat-square)
-![Oracle OCI](https://img.shields.io/badge/Oracle-OCI-C74634?logo=oracle&logoColor=white&style=flat-square)
-![Networking](https://img.shields.io/badge/Networking-TOR%20%7C%20NICs%20%7C%20Infra-blue?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-Bash%20%7C%20AI%20Workflows-orange?style=flat-square)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-AI%20Automation-74aa9c?style=flat-square)
 
 ---
 
-### 📜 Certifications
+## 📜 Certifications
 
-- ✅ **LPI: Linux Essentials**  
-  Issued by: Linux Professional Institute (LPI)  
-  🔗 [Verify Certification](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000568806/vacd8w94bn)
+- ✅ **LPI: Linux Essentials** — Linux Professional Institute (LPI)
+  🔗 [Verificar certificación](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000568806/vacd8w94bn)
+- 📘 **LPIC-1** — En preparación
 
 ---
 
-### 🌐 Connect with Me
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GusAguilra&show_icons=true&theme=tokyonight&line_height=27&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusAguilra&theme=tokyonight&layout=compact&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GusAguilra&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<!--
+## 🚀 Featured Projects
+
+<a href="https://github.com/GusAguilra/linux-hardening-scripts">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GusAguilra&repo=linux-hardening-scripts&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/GusAguilra/checkmk-custom-plugins">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=GusAguilra&repo=checkmk-custom-plugins&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/GusAguilra/bash-admin-toolkit">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=GusAguilra&repo=bash-admin-toolkit&theme=tokyonight&hide_border=true" />
+</a>
+
+Descomenta esta sección y reemplaza los nombres de los repos cuando tengas los proyectos publicados.
+-->
+
+## 🌐 Connect with Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/gustavo-aguilera-l/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=flat-square)](mailto:gustavoe.aguilera@hotmail.com)
-
----
-<!--
-### 📈 GitHub Activity
-
-<a href="https://github.com/tu-usuario">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&theme=tokyonight&layout=compact" />
-</a>
-
-<a href="https://github.com/tu-usuario">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&line_height=27" alt="Gustavo's GitHub stats"/>
-</a>
-
----
-
-### 🚀 Featured Projects
-
-<a href="https://github.com/tu-usuario/linux-hardening-scripts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=linux-hardening-scripts&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/tu-usuario/checkmk-custom-plugins">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=checkmk-custom-plugins&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/tu-usuario/bash-admin-toolkit">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=bash-admin-toolkit&theme=tokyonight" />
-</a>
-
----
--->
