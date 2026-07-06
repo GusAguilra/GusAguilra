@@ -22,7 +22,7 @@ Soy administrador de sistemas Linux e infraestructura, con experiencia en entorn
 - 📘 Preparándome para la certificación **LPIC-1**
 - ☁️ Interesado en DevOps, Cloud Infrastructure, SRE, Monitoring y proyectos de automatización
 - 🤝 Abierto a colaborar en proyectos open-source de Linux, monitoreo e infraestructura
-- ⚡ Apasionado por resolver problemas críticos de infraestructura en entornos de producción de alta exigencia
+- ⚡ Apasionado por resolver problemas críticos de infraestructura en entornos de producción
 
 ---
 
@@ -68,9 +68,9 @@ Soy administrador de sistemas Linux e infraestructura, con experiencia en entorn
 
 <div align="center">
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GusAguilra&show_icons=true&theme=tokyonight&line_height=27&hide_border=true)
+![Gustavo's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=GusAguilra&show_icons=true&theme=tokyonight&line_height=27&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusAguilra&theme=tokyonight&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GusAguilra&theme=tokyonight&layout=compact&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GusAguilra&theme=tokyonight&hide_border=true)
 
@@ -78,23 +78,19 @@ Soy administrador de sistemas Linux e infraestructura, con experiencia en entorn
 
 ---
 
-<!--
 ## 🚀 Featured Projects
 
-<a href="https://github.com/GusAguilra/linux-hardening-scripts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GusAguilra&repo=linux-hardening-scripts&theme=tokyonight&hide_border=true" />
+<div align="center">
+
+<a href="https://github.com/GusAguilra/linuxcourse">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=GusAguilra&repo=linuxcourse&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/GusAguilra/checkmk-custom-plugins">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=GusAguilra&repo=checkmk-custom-plugins&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/GusAguilra/linux-rpg-terminal">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=GusAguilra&repo=linux-rpg-terminal&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/GusAguilra/bash-admin-toolkit">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=GusAguilra&repo=bash-admin-toolkit&theme=tokyonight&hide_border=true" />
-</a>
-
-Descomenta esta sección y reemplaza los nombres de los repos cuando tengas los proyectos publicados.
--->
+</div>
 
 ## 🌐 Connect with Me
 
